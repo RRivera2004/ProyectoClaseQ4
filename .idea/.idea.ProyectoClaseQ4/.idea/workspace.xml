@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2113e88-3b1f-41a0-8dc3-6ccda419139b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProyectoClaseQ4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProyectoClaseQ4/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a2113e88-3b1f-41a0-8dc3-6ccda419139b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +42,7 @@
 }]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ProyectoClaseQ4/Controllers/TestController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProyectoClaseQ4/DTOs/LoginDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProyectoClaseQ4/Services/FirebaseServices.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -136,7 +135,7 @@
       <workItem from="1763340005187" duration="159000" />
       <workItem from="1763340369643" duration="30000" />
       <workItem from="1763427623377" duration="272000" />
-      <workItem from="1763582080792" duration="694000" />
+      <workItem from="1763582080792" duration="1034000" />
     </task>
     <servers />
   </component>
